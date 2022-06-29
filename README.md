@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InvalidCodes
 - 👀 I’m interested in robots
 - 🌱 I’m currently learning oj
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on oj project
 - 📫 email: dyemartine6@gmail.com
 
 <!---
