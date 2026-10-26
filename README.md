@@ -14,10 +14,10 @@ I work on **embodied AI and multimodal agents**.
 
 | City | When | What I was doing there |
 | --- | --- | --- |
-| 🏙️ **Shanghai** | Until 2025 | Born and raised · B.Eng. at Shanghai University · interned at SAIC Maxus and Duo LuoLuo · research at SJTU Scale Lab |
-| 🌆 **Chicago** | 2025–2026 | M.S. at Northwestern, MLL Lab |
-| 🌊 **San Diego** | Summer 2026 | Research intern at UCSD ARC Lab |
-| 🏯 **Beijing** | 2026–Present | Embodied AI research intern at BAAI |
+| 🏙️&nbsp;**Shanghai** | Until&nbsp;2025 | Born and raised · B.Eng. at Shanghai University · interned at SAIC Maxus and Duo LuoLuo · research at SJTU Scale Lab |
+| 🌆&nbsp;**Chicago** | 2025&#8288;–&#8288;2026 | M.S. at Northwestern, MLL Lab |
+| 🌊&nbsp;**San&nbsp;Diego** | Summer&nbsp;2026 | Research intern at UCSD ARC Lab |
+| 🏯&nbsp;**Beijing** | 2026&#8288;–&#8288;Present | Embodied AI research intern at BAAI |
 
 Five moves in thirteen months, across two countries and three time zones. Every move meant a new lab, a new codebase, a new simulator, and a new circle of people, and I've learned to settle in fast: find my people, learn the lay of the land, build a support system, and ship something within a few days.
 
